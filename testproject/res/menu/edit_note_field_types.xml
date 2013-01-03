@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/field_type_audio" android:title="@string/audio">
+        <!-- <menu>
+            <item android:id="@+id/launch_recorder" android:title="@string/record"/>
+            <item android:id="@+id/launch_audio_selector" android:title="@string/select_audio"/>
+        </menu> -->    
+    </item>
+    <item android:id="@+id/field_type_image" android:title="@string/image" />
+</menu>
